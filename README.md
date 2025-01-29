@@ -1,4 +1,4 @@
-#💻 **Avid Developer | Reigniting the Scene** 🚀✨
+# 💻 **Avid Developer | Reigniting the Scene** 🚀✨
 
 - 🇦🇺 Student from Australia
 
