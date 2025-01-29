@@ -1,4 +1,4 @@
-https://github.com/Ploughed/Ploughed/blob/main/Untitled.jpg
+![Alt text](https://github.com/Ploughed/Ploughed/blob/main/Untitled.jpg?raw=tru
 # 💻 **Avid Developer | Reigniting the Scene** 🚀✨
 
 - 🇦🇺 Student from Australia
