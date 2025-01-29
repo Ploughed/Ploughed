@@ -37,9 +37,10 @@ Currently, **I'm reigniting the scene** by building innovative projects, refacto
 **Discord Profile:** [Click here to view my Discord profile](https://discord.com/users/1276793937482481666)
 
 # **My Stats**
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ploughed&show_icons=true&hide_title=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ploughed&show_icons=true&hide_title=true&count_private=true)
 
 # **Commits**
-![GitHub Commit Grid](https://raw.githubusercontent.com/Ploughed/Ploughed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Commit Grid](https://raw.githubusercontent.com/Ploughed/Ploughed/output/github-contribution-grid-snake-dark.svg)
+
 
 
