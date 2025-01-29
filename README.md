@@ -32,3 +32,9 @@ Currently, **I'm reigniting the scene** by building innovative projects, refacto
 - ⚡ **Performance Optimization & Refactoring**  
 - 🏗 **Custom Game Mechanics & Features**  
 - 🚀 **Expanding the Minecraft Ecosystem**
+# **Discord** https://github.com/Ploughed/Ploughed/tree/main
+![Alt text](https://discord.com/users/1276793937482481666)
+# **My Stats** 
+![Alt text](https://github.com/Ploughed/Ploughed/tree/main)
+# **Commits**
+![Alt text](https://raw.githubusercontent.com/Ploughed/Ploughed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
