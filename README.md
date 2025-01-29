@@ -33,8 +33,8 @@ Currently, **I'm reigniting the scene** by building innovative projects, refacto
 - 🏗 **Custom Game Mechanics & Features**  
 - 🚀 **Expanding the Minecraft Ecosystem**
 # **Contact Information**
-- **Discord**: [officaldemonic](https://discord.com/users/123456789012345678)
-- **Backup Discord**: [officalwellington](https://discord.com/users/234567890123456789)
+- **Discord**: [officaldemonic](https://discord.com/users/1276793937482481666)
+- **Backup Discord**: [officalwellington](https://discord.com/users/1323072737572425749)
 - **Telegram**: [@sensitising](https://t.me/sensitising)
 
 # **My Stats**
