@@ -33,12 +33,13 @@ Currently, **I'm reigniting the scene** by building innovative projects, refacto
 - 🏗 **Custom Game Mechanics & Features**  
 - 🚀 **Expanding the Minecraft Ecosystem**
 # **Discord**
-[Click here to view my Discord profile](https://discord.com/users/1276793937482481666)  
-![Discord Avatar](https://cdn.discordapp.com/avatars/1276793937482481666/8d90a16799e4b6b59b2fc8ad42a629bc.png?size=128)
+![Discord Avatar](https://cdn.discordapp.com/avatars/1276793937482481666/8d90a16799e4b6b59b2fc8ad42a629bc.png?size=128)  
+**Discord Profile:** [Click here to view my Discord profile](https://discord.com/users/1276793937482481666)
 
 # **My Stats**
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ploughed&show_icons=true&hide_title=true)
 
 # **Commits**
 ![GitHub Commit Grid](https://raw.githubusercontent.com/Ploughed/Ploughed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
