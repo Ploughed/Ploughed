@@ -2,7 +2,7 @@
 # 💻 **Avid Developer | Reigniting the Scene** 🚀✨
 
 - 🇦🇺 Student from Australia
-- (https://skillicons.dev/icons?i=java,github,gradle,idea,kotlin,maven,mongodb,py,mysql)](https://skillicons.dev)
+- [Skillicons](https://skillicons.dev/icons?i=java,github,gradle,idea,kotlin,maven,mongodb,py,mysql)
 
 **Skills:**
 
