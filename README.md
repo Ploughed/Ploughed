@@ -2,13 +2,11 @@
 # 💻 **Avid Developer | Reigniting the Scene** 🚀✨
 
 - 🇦🇺 Student from Australia
+- (https://skillicons.dev/icons?i=java,github,gradle,idea,kotlin,maven,mongodb,py,mysql)](https://skillicons.dev)
 
 **Skills:**
 
 - 🟩 **Java**
-- 🟦 **JavaScript**
-- 🟨 **NodeJS**
-- 🟪 **TypeScript**
 
 **Languages I Can Read:**
 
