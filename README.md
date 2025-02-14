@@ -2,6 +2,7 @@
 # 💻 **Avid Developer | Reigniting the Scene** 🚀✨
 
 - 🇦🇺 Student from Australia
+- I'm the Founder & CEO of Arizen Development LLC ❤️
 - ![Skillicons](https://skillicons.dev/icons?i=java,github,gradle,idea,kotlin,maven,mongodb,py,mysql)
 
 **Skills:**
