@@ -1,36 +1,13 @@
 ![Alt text](https://raw.githubusercontent.com/Ploughed/Ploughed/main/Untitled.jpg)
-# 💻 **Avid Developer | Reigniting the Scene** 🚀✨
+# 💭 17 with a Dream 🚀
 
-- 🇦🇺 Student from Australia
-- I'm the Founder & CEO of Arizen Development LLC ❤️
-- ![Skillicons](https://skillicons.dev/icons?i=java,github,gradle,idea,kotlin,maven,mongodb,py,mysql,vscode)
+- 🇦🇺 From Australia
+- Just a 17-year-old chasing big goals ❤️
 
-**Skills:**
+Hey there! I’m someone driven by ambition, always looking to grow, improve, and build something meaningful. I’ve got a strong mindset, a clear vision, and the hunger to turn ideas into reality.
 
-- 🟩 **Java**
+Right now, I’m focused on leveling up in life, exploring opportunities, and pushing myself to be better every day. This is just the beginning.
 
-**Languages I Can Read:**
-
-- 🐍 **Python**
-- 💻 **C++**
-- 🟪 **Kotlin**
-- 🎵 **Groovy**
-
-**Currently Learning:**
-
-- 🟩 **Go**
-- 🟦 **C#**
-
-Hey there! I'm a passionate **Java developer** with a deep love for **Bukkit/Spigot plugin development**, game mechanics, and backend systems. Whether it's crafting immersive **Minecraft plugins**, optimising performance, or engineering robust solutions, I'm always pushing the boundaries of what's possible.
-
-Currently, **I'm reigniting the scene** by building innovative projects, refactoring old codebases, and contributing to the community with fresh ideas. My work revolves around **clean architecture, efficient algorithms, and modular design**, ensuring every project is built to last.
-
-🔥 **What I Do:**
-
-- 🛠 **Bukkit/Spigot Plugin Development**  
-- ⚡ **Performance Optimization & Refactoring**  
-- 🏗 **Custom Game Mechanics & Features**  
-- 🚀 **Expanding the Minecraft Ecosystem**
 # **Contact Information**
 - **Discord**: [officaldemonic](https://discord.com/users/1276793937482481666)
 - **Backup Discord**: [officalwellington](https://discord.com/users/1323072737572425749)
