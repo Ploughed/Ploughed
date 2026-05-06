@@ -1,8 +1,6 @@
 ![Alt text](https://raw.githubusercontent.com/Ploughed/Ploughed/main/Untitled.jpg)
-# 💭 17 with a Dream 🚀
 
 - 🇦🇺 From Australia
-- Just a 17-year-old chasing big goals ❤️
 
 Hey there! I’m someone driven by ambition, always looking to grow, improve, and build something meaningful. I’ve got a strong mindset, a clear vision, and the hunger to turn ideas into reality.
 
